@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Kana::VERSION
   spec.authors       = ["Manbo-"]
   spec.email         = ["Manbo-@server.fake"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{nihongo}
+  spec.summary       = %q{nihongo}
   spec.homepage      = ""
   spec.license       = "MIT"
 
